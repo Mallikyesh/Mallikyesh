@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mallikarjun Yeshlur Sophomore year student at PESU RR campus Bengaluru, Karnataka 
+- 👋 Hi, I’m Mallikarjun Yeshlur Junior year student at PESU RR campus Bengaluru, Karnataka 
 - 👀 I’m interested in ML, System Design, RISC-V, Signal processing , IOT
 - 🌱 I’m currently learning Machine Learning , Signal Processing and IOT
 - 💞️ I’m looking to collaborate on projects involving Verilog, Python, RISC-V programming languages
