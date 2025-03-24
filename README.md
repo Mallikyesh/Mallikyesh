@@ -10,11 +10,6 @@ Mallikyesh/Mallikyesh is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-
-# 💫 About Me:
-👋 Hi, I’m Mallikarjun Yeshlur Junior year student at PESU RR campus Bengaluru, Karnataka<br>👀 I’m interested in ML, System Design, RISC-V, Signal processing , IOT<br>🌱 I’m currently learning Machine Learning , Signal Processing and IOT<br>💞️ I’m looking to collaborate on projects involving Verilog, Python, RISC-V programming languages<br>📫 How to reach me Email: mallikarjun.yeshlur@gmail.com , Linkedin: www.linkedin.com/in/mallikarjunyesh<br>⚡ Fun fact: I love sports and learning new intriguing stuff
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/mallikarjunyesh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mallikarjun.yeshlur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallikarjun.yeshlurdev@gmail.com) 
 
